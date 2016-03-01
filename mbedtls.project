@@ -1,0 +1,5 @@
+<project type="StaticLibrary">
+	<source path="./library"></source>
+	<source path="./include" include="true"></source>
+	<macro name="_CRT_SECURE_NO_WARNINGS" />
+</project>
